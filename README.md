@@ -1,4 +1,4 @@
-# Bachelor-thesis
+# BachelorThesis
 In this repository it is possible to find the code I wrote for my bachelor thesis titled "Simulation of the internal calibrator of the LSPE/Strip instrument".
 
 In particular, three files are available: 
